@@ -1,0 +1,12 @@
+{
+    "title": "Side Project Taiwan 官方網站",
+    "description": "Side Project Taiwan 是一個由軟體開發愛好者成立的開源友善社群, 社群成員包含「開發」「設計」「專案管理」等等想參與專案開發的夥伴！",
+    "imageUrl": "",
+    "tags": ["PM", "UIUX", "前端", "後端"],
+    "isSoftDelete": false,
+    "github_url": "https://github.com/side-project-taiwan/sideproj.tw",
+    "create_at": "",
+    "project_started_at": "2024/02/10",
+    "isActive": true,
+    "owner": { "name": "SPT Team", "personal_github": "https://github.com/side-project-taiwan", "role": "owner" }
+}

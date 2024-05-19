@@ -1,0 +1,10 @@
+{
+    "content": "申請專案",
+    "username": "專案申請小助手",
+    "avatar_url": "https://path.to.your/avatar.png",
+    "embeds": [{
+        "title": "列表專案申請內容（請手動修改%7B 為 '{'，%7D 為 '}'，貼到 vscode 內 format 為 json格式",
+        "description": "put your actual format.json content with JSON.stringify here",
+        "color": 65280
+    }]
+}
